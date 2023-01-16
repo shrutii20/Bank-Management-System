@@ -2,7 +2,9 @@
 
 A Bank Management System made with Advanced Java, Java Swing, Database Connection which can store and collect customer data easily and store into the database.
 
-The customer can make 2 types of accounts, 
+The customer can make 2 types of accounts, savings and current account!!
+
+You can see balance available, deposit money and withdraww money!
 
 # Login Page
 ![image](https://user-images.githubusercontent.com/96198018/212706395-d258abc6-5e87-4acf-b9ec-168b3b622ee7.png)
